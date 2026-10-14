@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Vesper Store
+Comment=Discover and install applications
+Exec=vesper-store
+Icon=system-software-install
+Terminal=false
+Categories=System;PackageManager;
+StartupNotify=true
+StartupWMClass=io.vesper.Store

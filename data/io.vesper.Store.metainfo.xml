@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>io.vesper.Store</id>
+  <name>Vesper Store</name>
+  <summary>Discover and install applications on Vesper</summary>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>MIT</project_license>
+  <description>
+    <p>Vesper Store is the native application discovery and installation surface for Vesper.</p>
+  </description>
+  <launchable type="desktop-id">io.vesper.Store.desktop</launchable>
+  <categories>
+    <category>System</category>
+  </categories>
+  <provides>
+    <binary>vesper-store</binary>
+  </provides>
+</component>
